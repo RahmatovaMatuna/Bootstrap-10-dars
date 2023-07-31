@@ -1,0 +1,28 @@
+body{
+    background-color: #c4c1c1;
+}
+.aaa{
+    border: 1px solid white;
+    height: 100px;
+    background-color: white;
+}
+.h1{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.bbb{
+    border: 1px solid white;
+    height: 70px;
+    background-color: white;
+}
+.h3{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.btn{
+    width: 180px;
+    position: relative;
+    left: 450px;
+}

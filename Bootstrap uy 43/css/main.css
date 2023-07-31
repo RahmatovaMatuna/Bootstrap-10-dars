@@ -1,0 +1,30 @@
+
+.maa{
+    position: relative;
+    right: 5px;
+}
+.hhh{
+    position: relative;
+    left: 100px;
+}
+.bis{
+    position: relative;
+    left: 140px;
+}
+.pod{
+    position: relative;
+    bottom: 5px;
+    left: 80px;
+}
+.facee{
+    position: relative;
+    left: 150px;
+}
+.gad{
+    position: relative;
+    left: 50px;
+}
+.h1 {
+    color: blue;
+    text-align: center;
+}
